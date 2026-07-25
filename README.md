@@ -198,11 +198,26 @@ Results from this reconstruction may differ because not all original preprocessi
 ## Citation
 
 ```bibtex
-@inproceedings{kanavos2023enhancing,
-  title={Enhancing Sign Language Recognition using Deep Convolutional Neural Networks},
-  author={Kanavos, Athanasios and Papadimitriou, Orestis and Mylonas, Phivos and Maragoudakis, Manolis},
-  year={2023},
-  publisher={IEEE}
+@inproceedings{DBLP:conf/iisa/KanavosPMM23,
+  author       = {Athanasios Kanavos and
+                  Orestis Papadimitriou and
+                  Phivos Mylonas and
+                  Manolis Maragoudakis},
+  editor       = {Nikolaos G. Bourbakis and
+                  George A. Tsihrintzis and
+                  Maria Virvou},
+  title        = {Enhancing Sign Language Recognition Using Deep Convolutional Neural
+                  Networks},
+  booktitle    = {14th International Conference on Information, Intelligence, Systems
+                  {\&} Applications, {IISA} 2023, Volos, Greece, July 10-12, 2023},
+  pages        = {1--4},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/IISA59645.2023.10345865},
+  doi          = {10.1109/IISA59645.2023.10345865},
+  timestamp    = {Mon, 03 Mar 2025 21:13:05 +0100},
+  biburl       = {https://dblp.org/rec/conf/iisa/KanavosPMM23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
