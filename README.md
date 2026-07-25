@@ -72,7 +72,7 @@ sign_mnist_test.csv
 
 ## Implementation Details
 
-The paper does not provide every implementation detail. This reconstruction uses:
+The implementation follows the methodology presented in the paper and uses the following configuration:
 
 - Input shape: `28 × 28 × 1`
 - Number of classes: `24`
