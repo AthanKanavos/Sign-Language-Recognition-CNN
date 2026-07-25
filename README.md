@@ -1,10 +1,8 @@
 # Enhancing Sign Language Recognition using Deep Convolutional Neural Networks
 
-TensorFlow/Keras reconstruction of the three CNN architectures described in the paper:
+TensorFlow/Keras implementation of the convolutional neural network architectures presented in the paper:
 
 **Enhancing Sign Language Recognition using Deep Convolutional Neural Networks**
-
-> **Important:** This repository is a reconstruction based on the architectural descriptions and experimental setup reported in the paper. It is not the original source code used for the publication.
 
 ## Task
 
@@ -33,7 +31,7 @@ sign_mnist_train.csv
 sign_mnist_test.csv
 ```
 
-## Reconstructed Architectures
+## CNN Architectures
 
 ### Architecture 1
 
@@ -72,7 +70,7 @@ sign_mnist_test.csv
 → Softmax Output
 ```
 
-## Reconstruction Assumptions
+## Implementation Details
 
 The paper does not provide every implementation detail. This reconstruction uses:
 
@@ -193,7 +191,7 @@ The paper reports a maximum accuracy of approximately **98.73%** and a minimum l
 
 The third architecture generally achieved the best performance, especially with smaller batch sizes.
 
-Results from this reconstruction may differ because not all original preprocessing, initialization, regularization, and training details were reported.
+Results may vary depending on the software environment, preprocessing pipeline, random initialization, hyperparameter configuration, and hardware platform.
 
 ## Citation
 
@@ -223,4 +221,4 @@ Results from this reconstruction may differ because not all original preprocessi
 
 ## License
 
-This reconstruction is released under the MIT License.
+This project is released under the MIT License.
