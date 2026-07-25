@@ -195,6 +195,8 @@ Results may vary depending on the software environment, preprocessing pipeline, 
 
 ## Citation
 
+If you use this implementation in your research, please cite the original paper.
+
 ```bibtex
 @inproceedings{DBLP:conf/iisa/KanavosPMM23,
   author       = {Athanasios Kanavos and
